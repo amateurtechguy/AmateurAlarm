@@ -1,10 +1,12 @@
 Item #,Quantity Required,Component Description
 1,1,Custom PCB
-2,1,3d Printed Case (Top + Bottom)
-3,1,Seeed XIAO RP2040
-4,1,EC11 Rotary encoder
-5,9,MX-Style Switches
-6,9,White blank DSA keycaps
-7,9,Through-hole 1N4148 Diodes
+2,1,3d Printed Case
+3,1,Seeed XIAO ESP32C3
+4,1,2.25inch TFT Screen
+5,4,MX-Style Switches
+6,4,White blank DSA keycaps
+7,9,3.3V Piezo Buzzer
 8,4,M3x16mm screws
 9,4,M3x5mx4mm heatset inserts
+10,1,2.54mm 8 Pin Male Header 
+11,8,20cm Female-Female Jumper Wires
