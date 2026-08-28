@@ -1,6 +1,6 @@
 Item #,Quantity Required,Component Description
 1,1,Custom PCB
-2,1,3d Printed Case
+2,1,3d Printed Case (Top + Bottom)
 3,1,Seeed XIAO ESP32C3
 4,1,2.25inch TFT Screen
 5,4,MX-Style Switches
