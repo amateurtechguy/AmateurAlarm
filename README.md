@@ -1,6 +1,9 @@
 # AmateurAlarm
 A 4 key alarm clock that is powered by a XIAO ESP32 module, and displayed by a 2.25inch TFT Screen. It has a black screen and red numbers, because that's the amateur tech guy's favorite color scheme!
 
+<img width="490" height="305" alt="Screenshot 2026-08-29 202622" src="https://github.com/user-attachments/assets/b17e3eae-bc19-43c6-ad3a-ecc6c71c6525" />
+
+<img width="479" height="316" alt="Screenshot 2026-08-29 202505" src="https://github.com/user-attachments/assets/c4bf3be4-8320-487a-8d30-ca7a7a163205" />
 
 ## What is This?
 It is a custom alarm clock powered by a Seeed XIAO ESP32 microcontroller and Arduino Firmware, allowing it to be fully customizable and compact.
